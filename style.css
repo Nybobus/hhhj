@@ -1,0 +1,18 @@
+form {
+    display: flex;
+    max-width: 500px;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    margin: 0 auto;
+    padding-top: 150px;
+
+    input, button {
+        padding: 20px;
+    }
+}
+
+#thanks {
+    text-align: center;
+    padding: 30px;
+}
